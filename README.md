@@ -10,6 +10,10 @@ CentralHub is a [Roblox](roblox.com) Script Hub made by me / [@IncSynoid](https:
  - And some [Youtube](https://youtube.com) tutorial that actually teach me a lot
 
 ## About CentralHub
+Supported games
+- Lumber Tycoon 2
+- Evade (WIP)
+
 ```Status: Maintenance```
 -
 - Loadstring ``` Still on *Maintenance* ```
