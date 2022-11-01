@@ -13,8 +13,8 @@ CentralHub is a [Roblox](roblox.com) Script Hub made by me / [@IncSynoid](https:
 
 ```Status: Maintenance```
 -
-- Loadstring
 ```Lua
+-- LoadString
   In Maintenance
 ```
 
