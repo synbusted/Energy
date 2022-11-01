@@ -13,7 +13,7 @@ CentralHub is a [Roblox](roblox.com) Script Hub made by me / [@IncSynoid](https:
 
 ```Status: Maintenance```
 -
-- Loadstring ``` Still on *Maintenance* ```
+- Loadstring `` Still on *Maintenance* ``
 
 Supported games
 - Lumber Tycoon 2
