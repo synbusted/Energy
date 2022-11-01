@@ -19,5 +19,5 @@ CentralHub is a [Roblox](roblox.com) Script Hub made by me / [@IncSynoid](https:
 ```
 
 Supported games
-- Lumber Tycoon 2
+- Lumber Tycoon 2 ( Recode/WIP )
 - Evade ( WIP )
