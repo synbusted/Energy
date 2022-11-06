@@ -11,10 +11,9 @@ CentralHub is a [Roblox](roblox.com) Script Hub made by me / [@IncSynoid](https:
 
 ## About CentralHub
 
-```
+```lua
 Status: Online
 ```
--
 ```Lua
 LoadString:
   loadstring(game:HttpGet("https://raw.githubusercontent.com/incSynoid/CentralHub/main/central.lua"))()
