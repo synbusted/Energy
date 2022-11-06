@@ -19,5 +19,5 @@ LoadString:
 ```
 
 Supported games
-- Lumber Tycoon 2 ( Recode/WIP )
+- Lumber Tycoon 2
 - Evade ( WIP )
