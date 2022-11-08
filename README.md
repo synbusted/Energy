@@ -1,5 +1,5 @@
 
-# Energy ![Logo](https://cdn.discordapp.com/attachments/1038465796361429075/1039546225894117386/zyro-image.png)
+# Energy ![Logo](https://cdn.discordapp.com/attachments/1038465796361429075/1039546494887407697/icons8-conflict-30.png)
 
 Energy is a [Roblox](roblox.com) Script Hub made by me / [@IncSynoid](https://github.com/incSynoid)
 
