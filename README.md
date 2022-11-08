@@ -12,12 +12,13 @@ Energy is a [Roblox](roblox.com) Script Hub made by me / [@IncSynoid](https://gi
 ## About CentralHub
 
 ```lua
-Status: Online
+Status: Offline
 ```
 ```Lua
 LoadString: 
 ```
-
+```lua
 Supported games
 - Lumber Tycoon 2
 - Evade ( WIP )
+```
