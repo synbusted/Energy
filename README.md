@@ -1,7 +1,7 @@
 
-# CentralHub ![Logo](https://cdn.discordapp.com/attachments/1036967035688722514/1036981121474375721/icons8-centralized-network-24.png)
+# Energy ![Logo](https://cdn.discordapp.com/attachments/1038465796361429075/1039546225894117386/zyro-image.png)
 
-CentralHub is a [Roblox](roblox.com) Script Hub made by me / [@IncSynoid](https://github.com/incSynoid)
+Energy is a [Roblox](roblox.com) Script Hub made by me / [@IncSynoid](https://github.com/incSynoid)
 
 
 ## Credit:
@@ -15,7 +15,7 @@ CentralHub is a [Roblox](roblox.com) Script Hub made by me / [@IncSynoid](https:
 Status: Online
 ```
 ```Lua
-LoadString: loadstring(game:HttpGet("https://raw.githubusercontent.com/incSynoid/CentralHub/main/central.lua"))()
+LoadString: 
 ```
 
 Supported games
