@@ -3,6 +3,7 @@
 
 Energy is a [Roblox](roblox.com) Script Hub made by me / [@IncSynoid](https://github.com/incSynoid)
 
+[Discord Server](https://dsc.gg/energysoftware)
 
 ## Credit
 
@@ -12,10 +13,10 @@ Energy is a [Roblox](roblox.com) Script Hub made by me / [@IncSynoid](https://gi
 ## About CentralHub
 
 ```lua
-Status: Offline
+Status: Online
 ```
 ```Lua
-LoadString: 
+LoadString: loadstring(game:HttpGet("https://raw.githubusercontent.com/incSynoid/Energy/main/Script/Loader.lua"))()
 ```
 ```lua
 Supported games
