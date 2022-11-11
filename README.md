@@ -21,5 +21,4 @@ LoadString: loadstring(game:HttpGet("https://raw.githubusercontent.com/incSynoid
 ```lua
 Supported games
 - Lumber Tycoon 2
-- Aimblox ( soon )
 ```
