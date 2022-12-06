@@ -18,8 +18,8 @@ Status: Online
 ```Lua
 LoadString: loadstring(game:HttpGet("https://raw.githubusercontent.com/incSynoid/Energy/main/Script/Loader.lua"))()
 ```
-```lua
-Supported games
+```CSS
+#Supported_games
 - Lumber Tycoon 2
 - Evade ( Release soon, after moonsec fixed their god damn obfuscator
 ```
